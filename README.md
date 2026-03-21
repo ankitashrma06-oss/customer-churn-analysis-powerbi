@@ -1,5 +1,5 @@
 # 📊 Customer Churn Analysis Dashboard (Power BI)
-
+This Power BI project analyzes customer churn behavior to identify key drivers and provide actionable strategies to improve customer retention and reduce churn rate.
 ---
 
 ## 📌 Overview
@@ -47,6 +47,14 @@ This project presents an interactive Power BI dashboard designed to analyze cust
 
 ---
 
+## 📊 Key Metrics Used
+- Churn Rate
+- Customer Lifetime Value (CLV)
+- Retention Rate
+- Customer Segmentation
+
+---
+  
 ## 💡 Key Insights
 - Customers with **month-to-month contracts** have the highest churn rate  
 - Senior customers exhibit higher churn rates compared to other age groups  
@@ -62,6 +70,13 @@ This project presents an interactive Power BI dashboard designed to analyze cust
 - Improve customer support experience  
 - Offer competitive pricing plans  
 - Target high-risk customers with retention strategies  
+
+---
+
+## 📈 Business Impact
+- Identified high-risk customer segments
+- Enabled data-driven retention strategies
+- Improved decision-making for pricing and contract planning
 
 ---
 
